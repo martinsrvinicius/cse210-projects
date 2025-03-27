@@ -1,0 +1,182 @@
+[
+    {
+        "reference": {
+            "book": "John",
+            "chapter": 3,
+            "verse": 16,
+            "endVerse": 16
+        },
+        "text": "For God so loved the world, that he gave his only begotten Son..."
+    },
+    {
+        "reference": {
+            "book": "Genesis",
+            "chapter": 1,
+            "verse": 1,
+            "endVerse": 1
+        },
+        "text": "In the beginning God created the heaven and the earth."
+    },
+    {
+        "reference": {
+            "book": "Psalm",
+            "chapter": 23,
+            "verse": 1,
+            "endVerse": 1
+        },
+        "text": "The LORD is my shepherd; I shall not want."
+    },
+    {
+        "reference": {
+            "book": "Proverbs",
+            "chapter": 3,
+            "verse": 5,
+            "endVerse": 5
+        },
+        "text": "Trust in the LORD with all thine heart, and lean not unto thine own understanding."
+    },
+    {
+        "reference": {
+            "book": "Romans",
+            "chapter": 8,
+            "verse": 28,
+            "endVerse": 28
+        },
+        "text": "And we know that all things work together for good to them that love God..."
+    },
+    {
+        "reference": {
+            "book": "Isaiah",
+            "chapter": 40,
+            "verse": 31,
+            "endVerse": 31
+        },
+        "text": "But they that wait upon the LORD shall renew their strength..."
+    },
+    {
+        "reference": {
+            "book": "Philippians",
+            "chapter": 4,
+            "verse": 13,
+            "endVerse": 13
+        },
+        "text": "I can do all things through Christ which strengtheneth me."
+    },
+    {
+        "reference": {
+            "book": "Matthew",
+            "chapter": 5,
+            "verse": 9,
+            "endVerse": 9
+        },
+        "text": "Blessed are the peacemakers: for they shall be called the children of God."
+    },
+    {
+        "reference": {
+            "book": "Ephesians",
+            "chapter": 2,
+            "verse": 8,
+            "endVerse": 8
+        },
+        "text": "For by grace are ye saved through faith; and that not of yourselves..."
+    },
+    {
+        "reference": {
+            "book": "Revelation",
+            "chapter": 21,
+            "verse": 4,
+            "endVerse": 4
+        },
+        "text": "And God shall wipe away all tears from their eyes; and there shall be no more death..."
+    },
+    {
+        "reference": {
+            "book": "1 Nephi",
+            "chapter": 3,
+            "verse": 7,
+            "endVerse": 7
+        },
+        "text": "I will go and do the things which the Lord hath commanded, for I know that the Lord giveth no commandments unto the children of men..."
+    },
+    {
+        "reference": {
+            "book": "2 Nephi",
+            "chapter": 2,
+            "verse": 25,
+            "endVerse": 25
+        },
+        "text": "Adam fell that men might be; and men are, that they might have joy."
+    },
+    {
+        "reference": {
+            "book": "Mosiah",
+            "chapter": 2,
+            "verse": 17,
+            "endVerse": 17
+        },
+        "text": "And behold, I tell you these things that ye may learn wisdom; that ye may learn that when ye are in the service of your fellow beings ye are only in the service of your God."
+    },
+    {
+        "reference": {
+            "book": "Alma",
+            "chapter": 32,
+            "verse": 21,
+            "endVerse": 21
+        },
+        "text": "And now as I said concerning faith—faith is not to have a perfect knowledge of things; therefore if ye have faith ye hope for things which are not seen..."
+    },
+    {
+        "reference": {
+            "book": "Helaman",
+            "chapter": 5,
+            "verse": 12,
+            "endVerse": 12
+        },
+        "text": "And now, my sons, remember, remember that it is upon the rock of our Redeemer, who is Christ, the Son of God, that ye must build your foundation..."
+    },
+    {
+        "reference": {
+            "book": "3 Nephi",
+            "chapter": 11,
+            "verse": 10,
+            "endVerse": 10
+        },
+        "text": "Behold, I am Jesus Christ, whom the prophets testified shall come into the world."
+    },
+    {
+        "reference": {
+            "book": "Ether",
+            "chapter": 12,
+            "verse": 27,
+            "endVerse": 27
+        },
+        "text": "And if men come unto me I will show unto them their weakness..."
+    },
+    {
+        "reference": {
+            "book": "Moroni",
+            "chapter": 7,
+            "verse": 45,
+            "endVerse": 45
+        },
+        "text": "Charity suffereth long, and is kind; charity envieth not; charity vaunteth not..."
+    },
+    {
+        "reference": {
+            "book": "Moroni",
+            "chapter": 7,
+            "verse": 48,
+            "endVerse": 48
+        },
+        "text": "Wherefore, my beloved brethren, pray unto the Father with all the energy of heart..."
+    },
+    {
+        "reference": {
+            "book": "2 Nephi",
+            "chapter": 25,
+            "verse": 26,
+            "endVerse": 26
+        },
+        "text": "And we talk of Christ, we rejoice in Christ, we preach of Christ..."
+    }
+]

@@ -18,16 +18,17 @@ public class Reference {
         _verse = verse;
     }
 
-    public Reference(string book, int chapter, int verse, int startVerse, int endVerse)
+    public Reference(string book, int chapter, int startVerse, int endVerse)
     {
         _book = book;
         _chapter = chapter;
-        _verse = verse;
+        _verse = startVerse;
         _endVerse = endVerse;
     }
 
    public string GetDisplayText()
-   {
-       return $"{_book} {_chapter}:{_verse}";
+   {    
+        string lastVerse = _endVerse > 0 ? "-" + _endVerse.ToString() : " ";
+       return $"{_book} {_chapter}:{_verse}{lastVerse}";
    }    
 }

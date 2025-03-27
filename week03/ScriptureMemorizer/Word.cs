@@ -27,4 +27,9 @@ public class Word {
         return _hidden;
     }
 
+    public string getText()
+    {
+        return _text;
+    }
+
 }
