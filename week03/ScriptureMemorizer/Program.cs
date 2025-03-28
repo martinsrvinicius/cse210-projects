@@ -31,6 +31,7 @@ class Program
         {
             Console.WriteLine("All words are hidden! Good luck!");
             Console.WriteLine();
+            return;
         }
         string displayScripture = scripture.GetDisplayText();
         Console.WriteLine(displayScripture);
